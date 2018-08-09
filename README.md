@@ -19,3 +19,6 @@ directly from npm registry.
 
 ## Building/Running
 - Consult ```package.json``` at the root of the project to learn more about all the development workflow scripts.
+
+## Generate Angular models and services from Swagger 2.0 specification
+- https://www.npmjs.com/package/ng-swagger-gen
